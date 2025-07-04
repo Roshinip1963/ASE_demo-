@@ -1,7 +1,7 @@
 # check_string.py
 import sys
 # Direct input here
-input_value = "this is me"# ✅ Change to a number to simulate failure
+input_value = 156# ✅ Change to a number to simulate failure
 
 # Check if it's a string
 if isinstance(input_value, str):
