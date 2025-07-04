@@ -1,7 +1,7 @@
 # check_string.py
 import sys
 # Direct input here
-input_value = "This is a string"  # ✅ Change to a number to simulate failure
+input_value = 123  # ✅ Change to a number to simulate failure
 
 # Check if it's a string
 if isinstance(input_value, str):
